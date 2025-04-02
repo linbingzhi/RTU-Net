@@ -10,7 +10,7 @@
 ##### Clone repository
 Clone and navigate to this repository
 ```
-git clone XXXXXXXXXXXXXXX
+git clone [https://github.com/linbingzhi/RTU-Net](https://github.com/linbingzhi/RTU-Net)
 cd RTU-Net
 ```
 
