@@ -1,4 +1,4 @@
-# RTU-Net
+# RTU-Net（Wang group）
 
 ## Requirements
 - [CUDA-enabled GPU](https://developer.nvidia.com/cuda-gpus#compute)
